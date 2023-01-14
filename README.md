@@ -32,9 +32,9 @@ Hey there! I'm software engineer who specializes in building web applications. M
 
 ## ✨ Stats
 
-[![GitHub streak](https://streak-stats.demolab.com?user=nerdstep&theme=tokyonight_duo&date_format=%5BY.%5Dn.j&mode=weekly&hide_border=true&border_radius=0&background=0e1117)](https://git.io/streak-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdstep&show_icons=true&theme=tokyonight&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdstep&layout=compact&card_width=445&langs_count=9&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <a href="https://git.io/streak-stats" target="_blank"><img src="https://streak-stats.demolab.com?user=nerdstep&theme=tokyonight_duo&date_format=%5BY.%5Dn.j&mode=weekly&hide_border=true&border_radius=0&background=0e1117" alt="GitHub streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://nerdstep-github-readme-stats.vercel.app/api?username=nerdstep&show_icons=true&theme=tokyonight_duo&bg_color=00000000&hide_border=true&border_radius=0&card_width=495#gh-dark-mode-only" alt="GitHub stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://nerdstep-github-readme-stats.vercel.app/api?username=nerdstep&show_icons=true&theme=tokyonight_duo&border_radius=0&card_width=495#gh-light-mode-only" alt="GitHub stats" /></a>  
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://nerdstep-github-readme-stats.vercel.app/api/top-langs/?username=nerdstep&layout=compact&langs_count=9&border_radius=0&card_width=445" alt="Top languages" /></a>
+</div>
