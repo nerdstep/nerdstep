@@ -34,9 +34,9 @@ Hey there! I'm software engineer who specializes in building web applications. M
 
 <div>
   <!-- streak | dark mode -->
-  <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank"><img src="https://streak-stats.demolab.com?user=nerdstep&theme=tokyonight&date_format=%5BY.%5Dn.j&mode=weekly&hide_border=true&border_radius=0&background=0e1117" alt="GitHub streak" /></a>
+  <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank"><img src="https://streak-stats.demolab.com?user=nerdstep&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true&border_radius=0&background=0e1117" alt="GitHub streak" /></a>
   <!-- streak | light mode -->
-  <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank"><img src="https://streak-stats.demolab.com?user=nerdstep&theme=graywhite&date_format=%5BY.%5Dn.j&mode=weekly&hide_border=true&border_radius=0&stroke=000000" alt="GitHub streak" /></a>
+  <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank"><img src="https://streak-stats.demolab.com?user=nerdstep&theme=graywhite&date_format=%5BY.%5Dn.j&hide_border=true&border_radius=0&stroke=000000" alt="GitHub streak" /></a>
   <!-- stats | dark mode -->
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank"><img src="https://nerdstep-github-readme-stats.vercel.app/api?username=nerdstep&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&border_radius=0&card_width=495" alt="GitHub stats" /></a>
   <!-- stats | light mode --->
