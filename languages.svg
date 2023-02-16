@@ -24,9 +24,9 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="131.74661805052438" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="131.74661805052438" y="0" width="125.49924581635926" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="257.24586386688367" y="0" width="113.25445087117117" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="370.50031473805484" y="0" width="54.217193011627494" height="8" fill="#d12127"/>
-                    <rect mask="url(#languages-bar)" x="424.71750774968234" y="0" width="21.27575804363576" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="445.9932657933181" y="0" width="14.006734206681948" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="370.50031473805484" y="0" width="21.27575804363576" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="391.77607278169063" y="0" width="14.006734206681948" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="405.78280698837256" y="0" width="54.217193011627494" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -55,12 +55,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Astro
+                                HTML
                             </div>
                             <small>
-                                <div>4.63%</div>
+                                <div>3.04%</div>
                             </small>
                         </div>
                     </section>
@@ -79,23 +79,23 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#d12127" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ff5a03" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                ApacheConf
+                                Astro
                             </div>
                             <small>
-                                <div>11.79%</div>
+                                <div>4.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                Other
                             </div>
                             <small>
-                                <div>3.04%</div>
+                                <div>11.79%</div>
                             </small>
                         </div>
                     </section>
