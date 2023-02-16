@@ -33,6 +33,9 @@ Hey there! I'm software engineer who specializes in building web applications. M
 ## ✨ Stats
 
 <div>
+  <picture>
+    <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+  </picture>
   <!-- streak | dark mode -->
   <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank"><img src="https://streak-stats.demolab.com?user=nerdstep&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true&border_radius=0&background=0e1117" alt="GitHub streak" /></a>
   <!-- streak | light mode -->
