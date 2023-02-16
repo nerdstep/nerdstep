@@ -37,14 +37,15 @@ Hey there! I'm software engineer who specializes in building web applications. M
     <img align="center" src="/github-metrics.svg" alt="Metrics">
   </picture>
   <picture>
+    <img align="center" src="/achievements.svg" alt="Achievements">
+  </picture>
+  <picture>
     <img align="center" src="/commit-calendar.svg" alt="Commit calendar">
   </picture>
   <picture>
     <img align="center" src="/languages.svg" alt="Most used languages">
   </picture>
-  <picture>
-    <img align="center" src="/achievements.svg" alt="Achievements">
-  </picture>
+
   <!-- streak | dark mode -->
   <!--<a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank"><img src="https://streak-stats.demolab.com?user=nerdstep&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true&border_radius=0&background=0e1117" alt="GitHub streak" /></a>-->
   <!-- streak | light mode -->
