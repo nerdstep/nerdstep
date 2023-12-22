@@ -25,7 +25,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.37645448323069 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.46132785763176 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -237,7 +237,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.90m out of 126m users</span>
+                                    <span class="gh">ranked 2.91m out of 126m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">19</div>
                                     </div>
@@ -293,7 +293,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="26.482412060301506 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.26130653266332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -311,10 +311,10 @@
                                     <span class="prefix"></span>
                                     Follower
                                     <div class="value-wrapper">
-                                        <div class="value">35</div>
+                                        <div class="value">36</div>
                                     </div>
                                 </div>
-                                <div class="text">Following 35 users</div>
+                                <div class="text">Following 36 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -364,7 +364,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 735k out of 126m users</span>
+                                    <span class="gh">ranked 736k out of 126m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -413,7 +413,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.41m out of 68.8m repositories</span>
+                                    <span class="gh">ranked 1.41m out of 64.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -572,7 +572,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.53m out of 68.8m repositories</span>
+                                    <span class="gh">ranked 1.53m out of 64.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
