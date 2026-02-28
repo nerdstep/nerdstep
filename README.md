@@ -14,21 +14,15 @@ Hey there! I'm software engineer who specializes in building web applications. M
 
 ## 🛠️ Skills
 
-<!--![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)-->
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="64" height="64"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="64" height="64"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="64" height="64" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="64" height="64" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="64" height="64" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="64" height="64 "/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="64" height="64" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="64" height="64" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="64" height="64" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="64" height="64" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="64" height="64" />
-</div>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoSize=auto)
+![Bun](https://img.shields.io/badge/Bun-black?style=flat-square&logo=bun&logoColor=f472b6&logoSize=auto)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## ✨ Stats
 
@@ -42,17 +36,4 @@ Hey there! I'm software engineer who specializes in building web applications. M
   <picture>
     <img align="center" src="/languages.svg" alt="Most used languages">
   </picture>
-
-  <!-- streak | dark mode -->
-  <!--<a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank"><img src="https://streak-stats.demolab.com?user=nerdstep&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true&border_radius=0&background=0e1117" alt="GitHub streak" /></a>-->
-  <!-- streak | light mode -->
-  <!--<a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank"><img src="https://streak-stats.demolab.com?user=nerdstep&theme=graywhite&date_format=%5BY.%5Dn.j&hide_border=true&border_radius=0&stroke=000000" alt="GitHub streak" /></a>-->
-  <!-- stats | dark mode -->
-  <!--<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank"><img src="https://nerdstep-github-readme-stats.vercel.app/api?username=nerdstep&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true&border_radius=0&card_width=495" alt="GitHub stats" /></a>-->
-  <!-- stats | light mode --->
-  <!--<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank"><img src="https://nerdstep-github-readme-stats.vercel.app/api?username=nerdstep&theme=graywhite&show_icons=true&bg_color=ffffff00e&hide_border=true&border_radius=0&card_width=495" alt="GitHub stats" /></a>-->
-  <!-- top languages | dark mode -->
-  <!--<a href="https://github.com/anuraghazra/github-readme-stat#gh-dark-mode-only" target="_blank"><img src="https://nerdstep-github-readme-stats.vercel.app/api/top-langs/?username=nerdstep&theme=tokyonight&layout=compact&langs_count=9&bg_color=00000000&hide_border=true&card_width=445" alt="Top languages" /></a>-->
-  <!-- top languages | light mode -->
-  <!--<a href="https://github.com/anuraghazra/github-readme-stat#gh-light-mode-only" target="_blank"><img src="https://nerdstep-github-readme-stats.vercel.app/api/top-langs/?username=nerdstep&theme=graywhite&layout=compact&langs_count=9&hide_border=true&card_width=445" alt="Top languages" /></a>-->
 </div>
