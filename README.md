@@ -37,9 +37,6 @@ Hey there! I'm software engineer who specializes in building web applications. M
     <img align="center" src="/github-metrics.svg" alt="Metrics">
   </picture>
   <picture>
-    <img align="center" src="/achievements.svg" alt="Achievements">
-  </picture>
-  <picture>
     <img align="center" src="/commit-calendar.svg" alt="Commit calendar">
   </picture>
   <picture>
