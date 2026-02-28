@@ -15,8 +15,11 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> I build mostly predictable web systems.
-> Mostly TypeScript. Mostly React. Mostly calm production deploys.
+**I build mostly predictable web systems.**
+
+**Mostly TypeScript. Mostly React. Mostly calm production deploys.**
+
+I model the data first, let the types argue with me, and try to make production boring.
 
 ## Stuff I'm mostly working on
 
