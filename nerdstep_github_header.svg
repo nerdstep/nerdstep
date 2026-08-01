@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1500"
+   height="500"
+   viewBox="0 0 1500 500"
+   version="1.1"
+   id="svg133"
+   sodipodi:docname="nerdstep_github_header.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview133"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8106667"
+     inkscape:cx="750.27614"
+     inkscape:cy="249.90795"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g127" />
+  <defs
+     id="defs13">
+    <linearGradient
+       id="bg"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#060912"
+         id="stop1" />
+      <stop
+         offset="55%"
+         stop-color="#0a1020"
+         id="stop2" />
+      <stop
+         offset="100%"
+         stop-color="#111827"
+         id="stop3" />
+    </linearGradient>
+    <radialGradient
+       id="glow1"
+       cx="0.32"
+       cy="0.52"
+       r="0.65">
+      <stop
+         offset="0%"
+         stop-color="#16365f"
+         stop-opacity="0.65"
+         id="stop4" />
+      <stop
+         offset="100%"
+         stop-color="#16365f"
+         stop-opacity="0"
+         id="stop5" />
+    </radialGradient>
+    <radialGradient
+       id="glow2"
+       cx="0.82"
+       cy="0.45"
+       r="0.55">
+      <stop
+         offset="0%"
+         stop-color="#4a2200"
+         stop-opacity="0.38"
+         id="stop6" />
+      <stop
+         offset="100%"
+         stop-color="#4a2200"
+         stop-opacity="0"
+         id="stop7" />
+    </radialGradient>
+    <linearGradient
+       id="titleGrad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0%"
+         stop-color="#ffffff"
+         id="stop8" />
+      <stop
+         offset="55%"
+         stop-color="#dff6ff"
+         id="stop9" />
+      <stop
+         offset="100%"
+         stop-color="#8ddcff"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="edgeGrad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0%"
+         stop-color="#4ec9ff"
+         id="stop11" />
+      <stop
+         offset="100%"
+         stop-color="#ff9d2e"
+         id="stop12" />
+    </linearGradient>
+    <filter
+       id="softGlow">
+      <feGaussianBlur
+         stdDeviation="7"
+         result="blur"
+         id="feGaussianBlur12" />
+      <feMerge
+         id="feMerge13">
+        <feMergeNode
+           in="blur"
+           id="feMergeNode12" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode13" />
+      </feMerge>
+    </filter>
+    <pattern
+       id="grid"
+       width="28"
+       height="28"
+       patternUnits="userSpaceOnUse">
+      <path
+         d="M 28 0 L 0 0 0 28"
+         fill="none"
+         stroke="#35506e"
+         stroke-width="0.7"
+         opacity="0.12"
+         id="path13" />
+    </pattern>
+  </defs>
+  <rect
+     width="1500"
+     height="500"
+     fill="url(#bg)"
+     id="rect13" />
+  <rect
+     width="1500"
+     height="500"
+     fill="url(#glow1)"
+     id="rect14" />
+  <rect
+     width="1500"
+     height="500"
+     fill="url(#glow2)"
+     id="rect15" />
+  <rect
+     width="1500"
+     height="500"
+     fill="url(#grid)"
+     id="rect16" />
+  <!-- left editorial block -->
+  <g
+     transform="translate(92,84)"
+     id="g26">
+    <text
+       x="0"
+       y="54"
+       font-family="Inter, Arial, sans-serif"
+       font-size="24"
+       letter-spacing="5"
+       fill="#67d7ff"
+       id="text16">JUSTIN WILLIAMS</text>
+    <text
+       x="0"
+       y="162"
+       font-family="Inter, Arial, sans-serif"
+       font-size="104px"
+       font-weight="800"
+       fill="url(#titleGrad)"
+       id="text17">@nerdstep</text>
+    <text
+       x="2"
+       y="214"
+       font-family="Inter, Arial, sans-serif"
+       font-size="23"
+       fill="#b8c7db"
+       id="text18">software engineer · open-source builder</text>
+    <g
+       transform="translate(2,267)"
+       id="g25">
+      <rect
+         x="0"
+         y="0"
+         width="535"
+         height="62"
+         rx="14"
+         fill="#0d1524"
+         stroke="#233956"
+         stroke-width="1.2"
+         id="rect18" />
+      <text
+         x="22"
+         y="25"
+         font-family="Consolas, Menlo, monospace"
+         font-size="17"
+         fill="#7dd3fc"
+         id="text19">$</text>
+      <text
+         x="44"
+         y="25"
+         font-family="Consolas, Menlo, monospace"
+         font-size="17"
+         fill="#e5edf7"
+         id="text20">building mostly useful things with</text>
+      <text
+         x="44"
+         y="48"
+         font-family="Consolas, Menlo, monospace"
+         font-size="17"
+         fill="#ffb347"
+         id="text21">TypeScript</text>
+      <text
+         x="151.44446"
+         y="48"
+         font-family="Consolas, Menlo, monospace"
+         font-size="17px"
+         fill="#7dd3fc"
+         id="text22">React</text>
+      <text
+         x="212.25513"
+         y="48"
+         font-family="Consolas, Menlo, monospace"
+         font-size="17px"
+         fill="#d8b4fe"
+         id="text23">Bun</text>
+      <text
+         x="254.90369"
+         y="48"
+         font-family="Consolas, Menlo, monospace"
+         font-size="17px"
+         fill="#fca5a5"
+         id="text24">Cloudflare</text>
+      <text
+         x="364"
+         y="48"
+         font-family="Consolas, Menlo, monospace"
+         font-size="17px"
+         fill="#a7f3d0"
+         id="text25">AI</text>
+    </g>
+  </g>
+  <!-- right visual field -->
+  <g
+     opacity="0.9"
+     id="g123">
+    <line
+       x1="1414"
+       y1="112"
+       x2="1423"
+       y2="91"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line26" />
+    <line
+       x1="1414"
+       y1="112"
+       x2="1410"
+       y2="142"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line27" />
+    <line
+       x1="1041"
+       y1="180"
+       x2="1010"
+       y2="138"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line28" />
+    <line
+       x1="1041"
+       y1="180"
+       x2="993"
+       y2="203"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line29" />
+    <line
+       x1="902"
+       y1="432"
+       x2="923"
+       y2="412"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line30" />
+    <line
+       x1="1318"
+       y1="99"
+       x2="1334"
+       y2="156"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line31" />
+    <line
+       x1="1318"
+       y1="99"
+       x2="1410"
+       y2="142"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line32" />
+    <line
+       x1="1192"
+       y1="71"
+       x2="1147"
+       y2="95"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line33" />
+    <line
+       x1="855"
+       y1="166"
+       x2="864"
+       y2="102"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line34" />
+    <line
+       x1="1277"
+       y1="363"
+       x2="1230"
+       y2="329"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line35" />
+    <line
+       x1="1334"
+       y1="156"
+       x2="1363"
+       y2="197"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line36" />
+    <line
+       x1="1425"
+       y1="414"
+       x2="1230"
+       y2="329"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line37" />
+    <line
+       x1="1189"
+       y1="167"
+       x2="1148"
+       y2="193"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line38" />
+    <line
+       x1="1363"
+       y1="197"
+       x2="1378"
+       y2="190"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line39" />
+    <line
+       x1="923"
+       y1="412"
+       x2="980"
+       y2="445"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line40" />
+    <line
+       x1="1108"
+       y1="197"
+       x2="1123"
+       y2="162"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line41" />
+    <line
+       x1="980"
+       y1="445"
+       x2="1033"
+       y2="414"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line42" />
+    <line
+       x1="980"
+       y1="445"
+       x2="1060"
+       y2="376"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line43" />
+    <line
+       x1="864"
+       y1="102"
+       x2="831"
+       y2="78"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line44" />
+    <line
+       x1="864"
+       y1="102"
+       x2="998"
+       y2="106"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line45" />
+    <line
+       x1="859"
+       y1="238"
+       x2="993"
+       y2="203"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line46" />
+    <line
+       x1="1378"
+       y1="190"
+       x2="1410"
+       y2="142"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line47" />
+    <line
+       x1="1230"
+       y1="329"
+       x2="1130"
+       y2="350"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line48" />
+    <line
+       x1="1147"
+       y1="95"
+       x2="1133"
+       y2="138"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line49" />
+    <line
+       x1="1060"
+       y1="376"
+       x2="1033"
+       y2="414"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line50" />
+    <line
+       x1="1130"
+       y1="350"
+       x2="1044"
+       y2="287"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line51" />
+    <line
+       x1="1130"
+       y1="350"
+       x2="1033"
+       y2="414"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line52" />
+    <line
+       x1="831"
+       y1="78"
+       x2="998"
+       y2="106"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line53" />
+    <line
+       x1="993"
+       y1="203"
+       x2="1010"
+       y2="138"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line54" />
+    <line
+       x1="998"
+       y1="106"
+       x2="1010"
+       y2="138"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line55" />
+    <line
+       x1="1133"
+       y1="138"
+       x2="1123"
+       y2="162"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line56" />
+    <line
+       x1="1123"
+       y1="162"
+       x2="1148"
+       y2="193"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line57" />
+    <line
+       x1="1123"
+       y1="162"
+       x2="1010"
+       y2="138"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line58" />
+    <line
+       x1="1423"
+       y1="91"
+       x2="1410"
+       y2="142"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line59" />
+    <line
+       x1="1010"
+       y1="138"
+       x2="1148"
+       y2="193"
+       stroke="url(#edgeGrad)"
+       stroke-width="1.4"
+       opacity="0.35"
+       id="line60" />
+    <circle
+       cx="1414"
+       cy="112"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle60" />
+    <circle
+       cx="1414"
+       cy="112"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle61" />
+    <circle
+       cx="1041"
+       cy="180"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle62" />
+    <circle
+       cx="1041"
+       cy="180"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle63" />
+    <circle
+       cx="902"
+       cy="432"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle64" />
+    <circle
+       cx="902"
+       cy="432"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle65" />
+    <circle
+       cx="1318"
+       cy="99"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle66" />
+    <circle
+       cx="1318"
+       cy="99"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle67" />
+    <circle
+       cx="1192"
+       cy="71"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle68" />
+    <circle
+       cx="1192"
+       cy="71"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle69" />
+    <circle
+       cx="855"
+       cy="166"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle70" />
+    <circle
+       cx="855"
+       cy="166"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle71" />
+    <circle
+       cx="1277"
+       cy="363"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle72" />
+    <circle
+       cx="1277"
+       cy="363"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle73" />
+    <circle
+       cx="1334"
+       cy="156"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle74" />
+    <circle
+       cx="1334"
+       cy="156"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle75" />
+    <circle
+       cx="1425"
+       cy="414"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle76" />
+    <circle
+       cx="1425"
+       cy="414"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle77" />
+    <circle
+       cx="1189"
+       cy="167"
+       r="4"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle78" />
+    <circle
+       cx="1189"
+       cy="167"
+       r="11"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle79" />
+    <circle
+       cx="1363"
+       cy="197"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle80" />
+    <circle
+       cx="1363"
+       cy="197"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle81" />
+    <circle
+       cx="923"
+       cy="412"
+       r="4"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle82" />
+    <circle
+       cx="923"
+       cy="412"
+       r="11"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle83" />
+    <circle
+       cx="1108"
+       cy="197"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle84" />
+    <circle
+       cx="1108"
+       cy="197"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle85" />
+    <circle
+       cx="980"
+       cy="445"
+       r="4"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle86" />
+    <circle
+       cx="980"
+       cy="445"
+       r="11"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle87" />
+    <circle
+       cx="864"
+       cy="102"
+       r="4"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle88" />
+    <circle
+       cx="864"
+       cy="102"
+       r="11"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle89" />
+    <circle
+       cx="859"
+       cy="238"
+       r="4"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle90" />
+    <circle
+       cx="859"
+       cy="238"
+       r="11"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle91" />
+    <circle
+       cx="1378"
+       cy="190"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle92" />
+    <circle
+       cx="1378"
+       cy="190"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle93" />
+    <circle
+       cx="1230"
+       cy="329"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle94" />
+    <circle
+       cx="1230"
+       cy="329"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle95" />
+    <circle
+       cx="1147"
+       cy="95"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle96" />
+    <circle
+       cx="1147"
+       cy="95"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle97" />
+    <circle
+       cx="1060"
+       cy="376"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle98" />
+    <circle
+       cx="1060"
+       cy="376"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle99" />
+    <circle
+       cx="1130"
+       cy="350"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle100" />
+    <circle
+       cx="1130"
+       cy="350"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle101" />
+    <circle
+       cx="831"
+       cy="78"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle102" />
+    <circle
+       cx="831"
+       cy="78"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle103" />
+    <circle
+       cx="993"
+       cy="203"
+       r="3"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle104" />
+    <circle
+       cx="993"
+       cy="203"
+       r="10"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle105" />
+    <circle
+       cx="998"
+       cy="106"
+       r="4"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle106" />
+    <circle
+       cx="998"
+       cy="106"
+       r="11"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle107" />
+    <circle
+       cx="1044"
+       cy="287"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle108" />
+    <circle
+       cx="1044"
+       cy="287"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle109" />
+    <circle
+       cx="1133"
+       cy="138"
+       r="4"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle110" />
+    <circle
+       cx="1133"
+       cy="138"
+       r="11"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle111" />
+    <circle
+       cx="1123"
+       cy="162"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle112" />
+    <circle
+       cx="1123"
+       cy="162"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle113" />
+    <circle
+       cx="1033"
+       cy="414"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle114" />
+    <circle
+       cx="1033"
+       cy="414"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle115" />
+    <circle
+       cx="1423"
+       cy="91"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle116" />
+    <circle
+       cx="1423"
+       cy="91"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle117" />
+    <circle
+       cx="1410"
+       cy="142"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle118" />
+    <circle
+       cx="1410"
+       cy="142"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle119" />
+    <circle
+       cx="1010"
+       cy="138"
+       r="4"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle120" />
+    <circle
+       cx="1010"
+       cy="138"
+       r="11"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle121" />
+    <circle
+       cx="1148"
+       cy="193"
+       r="5"
+       fill="#9ee7ff"
+       opacity="0.9"
+       id="circle122" />
+    <circle
+       cx="1148"
+       cy="193"
+       r="12"
+       fill="none"
+       stroke="#56c7ff"
+       stroke-width="1"
+       opacity="0.15"
+       id="circle123" />
+  </g>
+  <g
+     transform="translate(711.2003,158.51252)"
+     id="g124">
+    <rect
+       x="0"
+       y="0"
+       width="120"
+       height="38"
+       rx="10"
+       fill="#101827"
+       stroke="#2a405d"
+       stroke-width="1.3"
+       id="rect123" />
+    <circle
+       cx="17"
+       cy="19"
+       r="4"
+       fill="#ffb347"
+       id="circle124" />
+    <text
+       x="30"
+       y="24"
+       font-family="Inter, Arial, sans-serif"
+       font-size="15px"
+       fill="#dbeafe"
+       id="text124">TypeScript</text>
+  </g>
+  <g
+     transform="translate(1189.087,198.10752)"
+     id="g125">
+    <rect
+       x="0"
+       y="0"
+       width="120"
+       height="38"
+       rx="10"
+       fill="#101827"
+       stroke="#2a405d"
+       stroke-width="1.3"
+       id="rect124" />
+    <circle
+       cx="17"
+       cy="19"
+       r="4"
+       fill="#ffb347"
+       id="circle125" />
+    <text
+       x="30"
+       y="24"
+       font-family="Inter, Arial, sans-serif"
+       font-size="15px"
+       fill="#dbeafe"
+       id="text125">React</text>
+  </g>
+  <g
+     transform="translate(1214.8528,37.562592)"
+     id="g126">
+    <rect
+       x="0"
+       y="0"
+       width="120"
+       height="38"
+       rx="10"
+       fill="#101827"
+       stroke="#2a405d"
+       stroke-width="1.3"
+       id="rect125" />
+    <circle
+       cx="17"
+       cy="19"
+       r="4"
+       fill="#ffb347"
+       id="circle126" />
+    <text
+       x="30"
+       y="24"
+       font-family="Inter, Arial, sans-serif"
+       font-size="15px"
+       fill="#dbeafe"
+       id="text126">Bun</text>
+  </g>
+  <g
+     transform="translate(1340.2872,324.87481)"
+     id="g127">
+    <rect
+       x="0"
+       y="0"
+       width="120"
+       height="38"
+       rx="10"
+       fill="#101827"
+       stroke="#2a405d"
+       stroke-width="1.3"
+       id="rect126" />
+    <circle
+       cx="17"
+       cy="19"
+       r="4"
+       fill="#ffb347"
+       id="circle127" />
+    <text
+       x="30"
+       y="24"
+       font-family="Inter, Arial, sans-serif"
+       font-size="15px"
+       fill="#dbeafe"
+       id="text127">AI</text>
+  </g>
+  <g
+     transform="translate(892.99705,277.26804)"
+     id="g128">
+    <rect
+       x="0"
+       y="0"
+       width="128"
+       height="38"
+       rx="10"
+       fill="#101827"
+       stroke="#2a405d"
+       stroke-width="1.3"
+       id="rect127" />
+    <circle
+       cx="17"
+       cy="19"
+       r="4"
+       fill="#ffb347"
+       id="circle128" />
+    <text
+       x="30"
+       y="24"
+       font-family="Inter, Arial, sans-serif"
+       font-size="15px"
+       fill="#dbeafe"
+       id="text128">Open source</text>
+  </g>
+  <g
+     transform="translate(1165.8984,381.50957)"
+     id="g129">
+    <rect
+       x="0"
+       y="0"
+       width="120"
+       height="38"
+       rx="10"
+       fill="#101827"
+       stroke="#2a405d"
+       stroke-width="1.3"
+       id="rect128" />
+    <circle
+       cx="17"
+       cy="19"
+       r="4"
+       fill="#ffb347"
+       id="circle129" />
+    <text
+       x="30"
+       y="24"
+       font-family="Inter, Arial, sans-serif"
+       font-size="15px"
+       fill="#dbeafe"
+       id="text129">Cloudflare</text>
+  </g>
+  <!-- border accents -->
+  <path
+     d="M 28 62 V 28 H 62"
+     fill="none"
+     stroke="#34506e"
+     stroke-width="1.2"
+     id="path130" />
+  <path
+     d="M 1472 62 V 28 H 1438"
+     fill="none"
+     stroke="#34506e"
+     stroke-width="1.2"
+     id="path131" />
+  <path
+     d="M 28 438 V 472 H 62"
+     fill="none"
+     stroke="#34506e"
+     stroke-width="1.2"
+     id="path132" />
+  <path
+     d="M 1472 438 V 472 H 1438"
+     fill="none"
+     stroke="#34506e"
+     stroke-width="1.2"
+     id="path133" />
+  <text
+     x="1410"
+     y="466"
+     text-anchor="end"
+     font-family="Consolas, Menlo, monospace"
+     font-size="14"
+     fill="#58718d"
+     id="text133">github.com/nerdstep</text>
+</svg>
