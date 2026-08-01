@@ -17,9 +17,11 @@
 
 > Building mostly useful things for the web.
 
+![hero](./nerdstep_github_header.jpg)
+
 ## Stuff I'm mostly working on
 
-- 🗔 [mostly.page](https://mostly.page) - A personal dashboard/start page -- coming soon
+- 💻 [mostly.page](https://mostly.page) - A personal dashboard/start page -- coming soon
 - 🧑‍🍳 [mostly.recipes](https://mostly.recipes) - Save online recipes cleanly, privately, offline, without ads or clutter
 - 🤖 [recipe-scrapers](https://github.com/recipe-scrapers/recipe-scrapers) - A TypeScript recipe scraping library
 - 💸 [helix-tui](https://github.com/nerdstep/helix-tui) - TUI for an AI-driven decision engine that autonomously executes systematic trading strategies
