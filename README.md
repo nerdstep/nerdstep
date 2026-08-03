@@ -24,6 +24,7 @@
 - 💻 [mostly.page](https://mostly.page) - A personal dashboard/start page -- coming soon
 - 🧑‍🍳 [mostly.recipes](https://mostly.recipes) - Save online recipes cleanly, privately, offline, without ads or clutter
 - 🤖 [recipe-scrapers](https://github.com/recipe-scrapers/recipe-scrapers) - A TypeScript recipe scraping library
+- Ⓜ️ [manifesto](https://github.com/nerdstep/manifesto) - Drop an SVG, get every icon asset a website needs.
 - 💸 [helix-tui](https://github.com/nerdstep/helix-tui) - TUI for an AI-driven decision engine that autonomously executes systematic trading strategies
 - 🌐 [nerdstep.com](https://nerdstep.com) - My personal site
 
