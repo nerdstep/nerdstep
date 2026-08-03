@@ -40,17 +40,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jwilliams42)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/965966106688913458)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nerdstep)
-
-## Stats
-
-<div>
-  <!--<picture>
-    <img align="center" src="/github-metrics.svg" alt="Metrics">
-  </picture>-->
-  <picture>
-    <img align="center" src="/commit-calendar.svg" alt="Commit calendar">
-  </picture>
-  <picture>
-    <img align="center" src="/languages.svg" alt="Most used languages">
-  </picture>
-</div>
