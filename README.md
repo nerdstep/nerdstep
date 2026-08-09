@@ -25,6 +25,7 @@
 - 🧑‍🍳 [mostly.recipes](https://mostly.recipes) - Save online recipes cleanly, privately, offline, without ads or clutter
 - 🤖 [recipe-scrapers](https://github.com/recipe-scrapers/recipe-scrapers) - A TypeScript library for scraping recipe data from cooking websites
 - Ⓜ️ [manifesto](https://github.com/nerdstep/manifesto) - Drop an SVG, get every icon asset a website needs.
+- 🛡️ [ismjs](https://github.com/ismjs/ismjs) - TypeScript codec to format, parse, and validate U.S. Government Information Security Markings (ISM)
 - 💸 [helix-tui](https://github.com/nerdstep/helix-tui) - TUI for an AI-driven decision engine that autonomously executes systematic trading strategies
 - 🌐 [nerdstep.com](https://nerdstep.com) - My personal site
 
