@@ -21,7 +21,7 @@
 
 ## Stuff I'm mostly working on
 
-- 💻 [mostly.page](https://mostly.page) - A personal dashboard/start page -- coming soon
+- 💻 [mostly.page](https://mostly.page) - A personal dashboard/start page
 - 🧑‍🍳 [mostly.recipes](https://mostly.recipes) - Save online recipes cleanly, privately, offline, without ads or clutter
 - 🤖 [recipe-scrapers](https://github.com/recipe-scrapers/recipe-scrapers) - A TypeScript library for scraping recipe data from cooking websites
 - Ⓜ️ [manifesto](https://github.com/nerdstep/manifesto) - Drop an SVG, get every icon asset a website needs.
