@@ -21,13 +21,14 @@
 
 ## Stuff I'm mostly working on
 
-- 💻 [mostly.page](https://mostly.page) - A personal dashboard/start page
 - 🧑‍🍳 [mostly.recipes](https://mostly.recipes) - Save online recipes cleanly, privately, offline, without ads or clutter
+- 💻 [mostly.page](https://mostly.page) - A customizable local-first dashboard/start page
+- 🌐 [mostly.global](https://mostly.global) - The company
 - 🤖 [recipe-scrapers](https://github.com/recipe-scrapers/recipe-scrapers) - A TypeScript library for scraping recipe data from cooking websites
 - Ⓜ️ [manifesto](https://github.com/nerdstep/manifesto) - Drop an SVG, get every icon asset a website needs.
 - 🛡️ [ismjs](https://github.com/ismjs/ismjs) - TypeScript codec to format, parse, and validate U.S. Government Information Security Markings (ISM)
 - 💸 [helix-tui](https://github.com/nerdstep/helix-tui) - TUI for an AI-driven decision engine that autonomously executes systematic trading strategies
-- 🌐 [nerdstep.com](https://nerdstep.com) - My personal site
+- 🤓 [nerdstep.com](https://nerdstep.com) - My home page
 
 <!--
 ## Past Projects
