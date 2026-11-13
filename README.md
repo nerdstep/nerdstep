@@ -1,6 +1,6 @@
 # Justin Williams
 
-📍 **Bay Area** | 🐈 **Cat daddy** | 🏕️ **Outdoor enthusiast**
+📍 **Bay Area** | 🐈 **Cat dad** | 🏕️ **Outdoor enthusiast**
 
 <!--![GitHub followers](https://img.shields.io/github/followers/nerdstep?logo=github&style=for-the-badge)
 ![Profile views](https://komarev.com/ghpvc/?username=nerdstep&style=for-the-badge&colorA=black)-->
@@ -21,11 +21,12 @@
 
 ## Stuff I'm mostly working on
 
+- 🌐 [mostly.global](https://mostly.global) - The little software company that I run with my wife and our cat, Chad (the real boss)
 - 🧑‍🍳 [mostly.recipes](https://mostly.recipes) - Save online recipes cleanly, privately, offline, without ads or clutter
 - 💻 [mostly.page](https://mostly.page) - A customizable local-first dashboard/start page
 - 🥕 [mostly.garden](https://mostly.garden) - A local-first garden planner with real measurements, over 3,400 varieties, spacing checks as you plant, and a pixel-art preview of how it grows
-- 🌐 [mostly.global](https://mostly.global) - The company
 - 🤖 [recipe-scrapers](https://github.com/recipe-scrapers/recipe-scrapers) - A TypeScript library for extracting and validating structured recipe data from HTML
+- ⭐ [startune](https://github.com/nerdstep/startune) - Organize, prune and rediscover your GitHub stars
 - Ⓜ️ [manifesto](https://github.com/nerdstep/manifesto) - Drop an SVG, get every icon asset a website needs
 - 🛡️ [ismjs](https://github.com/ismjs/ismjs) - TypeScript codec to format, parse, and validate U.S. Government Information Security Markings (ISM)
 - 🤓 [nerdstep.com](https://nerdstep.com) - My home page
