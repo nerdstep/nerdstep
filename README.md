@@ -30,6 +30,7 @@
 - Ⓜ️ [manifesto](https://github.com/nerdstep/manifesto) - Drop an SVG, get every icon asset a website needs
 - 🛡️ [ismjs](https://github.com/ismjs/ismjs) - TypeScript codec to format, parse, and validate U.S. Government Information Security Markings (ISM)
 - 🎮 [crumblins](https://crumblins.com) - A puzzle game about saving small, trusting creatures from a world built to crumble them.
+- 💬 [tightbeam](https://github.com/nerdstep/tightbeam) - Private peer-to-peer chat between two people on the same network
 - 🤓 [nerdstep.com](https://nerdstep.com) - My home page
 
 ## Connect
